@@ -65,7 +65,7 @@ For our example topic, you can refer some reputed papers like
 
 Here the first paper belongs to category of review/survey papers which discusses a concept and all its existing literature. Other two discusses application of different Explainable AI methods to real world problems.
 
-While choosing papers you should ensure that the papers chosen are from indexed journals/tier-1 conferences (not earlier than 2021). Only one paper referred to may be a survey/review paper. The other should be a methodology/algorithm/design with results.
+While choosing papers you should ensure that the papers chosen are from indexed journals/tier-1 conferences (not earlier than 2022). Only one paper referred to may be a survey/review paper. The other should be a methodology/algorithm/design with results.
 
 NSS College of Engineering
 Department of Computer Science \& Engineering
@@ -90,17 +90,48 @@ This must have entries till the report submission.
 
 - We will start our seminar from 30/07/2024 onwards - 6 students/session.
 
-Distribution of marks for the seminar is as follows.
-Total Marks
-: 100 Marks
-Marks for the Report
-: 20 Marks
-Marks for the Presentation
-: 40 Marks
-Attendance \& Seminar Diary
-: 20 Marks
-Guide
-: 20 Marks
-Seminar In-Charge
-Dr. Sruthy Manmadhan
+### Evaluation Criteria (Total: 100 marks)
+
+#### 1. Seminar Guide Evaluation (20 marks)
+- Background Knowledge: 10 marks
+- Relevance of Topic: 10 marks
+
+#### 2. Seminar Coordinator (20 marks)
+- Seminar Diary: 10 marks
+- Attendance: 10 marks
+
+#### 3. Presentation (40 marks)
+- Clarity of Presentation: 10 marks
+- Interactions (Q&A): 10 marks
+- Overall Participation: 10 marks
+- Quality of Slides: 10 marks
+
+#### 4. Report (20 marks)
+- Technical Content & Quality
+- Adherence to Templates
+- Adequacy of References
+### Evaluation Details
+
+**Seminar Diary:**
+- Maintain a weekly log of work done
+- Get it approved by your guide during weekly meetings
+- Include progress, challenges, and plans
+
+**Presentation:**
+- Duration: 20 minutes presentation + 5 minutes Q&A
+- Focus on clear communication of concepts
+- Engage with the audience during Q&A
+- Professional slide design is expected
+
+**Report:**
+- Follow the provided template
+- Include proper citations and references
+- Submit both hard and soft copies
+
+---
+
+Seminar In-Charge  
+KIRAN V K
+
+*Note: These guidelines complement the official course syllabus . In case of any discrepancy, the official syllabus takes precedence.*
 
