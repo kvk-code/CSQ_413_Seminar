@@ -39,6 +39,12 @@ This repository contains all the necessary files and documentation for the CSQ41
    - Complete class roll numbers
    - Student names in alphabetical order
 
+3. `CSE Seminar Title 2025-26 - Response.csv`
+   - Student-submitted seminar titles
+   - Collected by class representative
+   - Contains registration numbers, roll numbers, and contact information
+   - Source file for populating presentation titles in evaluation sheets
+
 ### Evaluation Sheets
 1. `monday_batch_evaluation.csv`
    - Groups 1-9 (36 students)
