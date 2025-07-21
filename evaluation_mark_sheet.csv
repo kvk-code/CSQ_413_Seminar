@@ -1,0 +1,9 @@
+Student Name,Roll No,Team No,Guide Name,Date of Presentation,Session Time,,,Guide Evaluation (20),,,Presentation Evaluation (40),,,,,Report Evaluation (20),,,Coordinator Evaluation (20),,Total (100)
+,,,,,,,Background Knowledge (10),Topic Relevance (10),Guide Total (20),Organization (10),Clarity & Communication (10),Q&A (10),Overall Participation (10),Presentation Total (40),Technical Content (10),Format & References (10),Report Total (20),Attendance (10),Seminar Diary (10),Coordinator Total (20),
+Example Student,1,Team X,Dr. Guide Name,DD/MM/YYYY,Morning/Afternoon,,,,,,,,,,,,,,,,
+Notes:,,,,,,,,,,,,,,,,,,,,,
+1. Guide Evaluation: Based on student's background knowledge and topic relevance,,,,,,,,,,,,,,,,,,,,,
+2. Presentation: Assess organization clarity communication Q&A and participation,,,,,,,,,,,,,,,,,,,,,
+3. Report: Evaluate technical content format and proper referencing,,,,,,,,,,,,,,,,,,,,,
+4. Coordinator: Track attendance and seminar diary maintenance,,,,,,,,,,,,,,,,,,,,,
+5. Minimum marks to pass: 50 out of 100,,,,,,,,,,,,,,,,,,,,,
