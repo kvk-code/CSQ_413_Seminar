@@ -1,22 +1,22 @@
 Project Group,Student Name,Roll No,Presentation Title,Organization (10),Clarity & Communication (10),Q&A (10),Overall Participation (10),Total (40),Guide Name
 
 Group 1
-,S THEJASWINI,57,,,,,,0,Dr Maya Mohan
-,RIYA S,51,,,,,,0,Dr Maya Mohan
-,ANJITHKRISHNAN K,18,,,,,,0,Dr Maya Mohan
+,S THEJASWINI,57,Harnessing LLMs for Intelligent Phishing Detection: Moving Beyond Classical ML and DL,,,,,0,Dr Maya Mohan
+,RIYA S,51,Benchmarking the Base: Evaluating Large Language Models for Phishing Detection Without Fine Tuning,,,,,0,Dr Maya Mohan
+,ANJITHKRISHNAN K,18,OSINT & Social Engineering: The Human Element of Cybersecurity,,,,,0,Dr Maya Mohan
 ,DIYA K SAJITH,29,,,,,,0,Dr Maya Mohan
 
 Group 2
-,VISHNU M,64,,,,,,0,Usha K
-,ABHISHEK S,6,,,,,,0,Usha K
-,THEERTHA SANTHOSH,59,,,,,,0,Usha K
-,MOHAMMED SHIFAN C P,39,,,,,,0,Usha K
+,VISHNU M,64,Digital Transformation in Healthcare: Challenges, Solutions, and Security,,,,,0,Usha K
+,ABHISHEK S,6,Hyperledger Fabric,,,,,0,Usha K
+,THEERTHA SANTHOSH,59,Cryptographic Mechanism for Secure Health Record Verification in Blockchain-Based Systems,,,,,0,Usha K
+,MOHAMMED SHIFAN C P,39,EHR Security and the DPDP Act: A Global Standards-Based Approach,,,,,0,Usha K
 
 Group 3
-,MERIN P R,37,,,,,,0,Dr Sindhu S
-,RAMEESA K T,49,,,,,,0,Dr Sindhu S
-,ARUN V,22,,,,,,0,Dr Sindhu S
-,ABHINAND C,3,,,,,,0,Dr Sindhu S
+,MERIN P R,37,Bloom Filters:Challenges and Solutions in Data Security,,,,,0,Dr Sindhu S
+,RAMEESA K T,49,Blockchain-Driven Secure Data Auditing for Cloud Storage Systems,,,,,0,Dr Sindhu S
+,ARUN V,22,Bloom Filter-Based Data Integrity Verification in Cloud Storage,,,,,0,Dr Sindhu S
+,ABHINAND C,3,Security and privacy concerns in cloud-based scientific and business workflows,,,,,0,Dr Sindhu S
 
 Group 4
 ,SREEJITH M VARMA,56,,,,,,0,Dr Anuraj Mohan
@@ -25,34 +25,34 @@ Group 4
 ,NAMITHA A SURESH,42,,,,,,0,Dr Anuraj Mohan
 
 Group 5
-,JOHN VARGHESE BENNY,34,,,,,,0,Dr Sruthi Manmadhan
-,ASWINI K S,24,,,,,,0,Dr Sruthi Manmadhan
-,BRIGHTY JOBIN,26,,,,,,0,Dr Sruthi Manmadhan
-,GAYATHRI ASOK,31,,,,,,0,Dr Sruthi Manmadhan
+,JOHN VARGHESE BENNY,34,Bayesian Networks for Intelligent Decision-Making in Uncertain Environments,,,,,0,Dr Sruthi Manmadhan
+,ASWINI K S,24,Multi-Modal Retrieval-Augmented Generation (RAG),,,,,0,Dr Sruthi Manmadhan
+,BRIGHTY JOBIN,26,Natural Language Inference: Teaching AI to Reason About Language,,,,,0,Dr Sruthi Manmadhan
+,GAYATHRI ASOK,31,Combining Ontologies and LLMs for Safer and Explainable AI Systems,,,,,0,Dr Sruthi Manmadhan
 
 Group 6
-,ASHISH B,23,,,,,,0,Dr Viji Rajendran
-,NAMITA B,41,,,,,,0,Dr Viji Rajendran
-,ROHAN C ALBEN,53,,,,,,0,Dr Viji Rajendran
-,SHAMIL A,66,,,,,,0,Dr Viji Rajendran
+,ASHISH B,23,AlphaFold,,,,,0,Dr Viji Rajendran
+,NAMITA B,41,Explaining model prediction with Captum in PyTorch,,,,,0,Dr Viji Rajendran
+,ROHAN C ALBEN,53,Cross Modal Attention,,,,,0,Dr Viji Rajendran
+,SHAMIL A,66,Multilayer Perceptron,,,,,0,Dr Viji Rajendran
 
 Group 7
-,MIHIKKA S,38,,,,,,0,VK
-,ANJANA S,17,,,,,,0,VK
-,ADITHYAN MARIKKAL,9,,,,,,0,VK
-,ABHISHEK M S,5,,,,,,0,VK
+,MIHIKKA S,38,Blockchain based approaches on federated learning,,,,,0,VK
+,ANJANA S,17,Intrusion detection system in iot,,,,,0,VK
+,ADITHYAN MARIKKAL,9,Attacks on IoT,,,,,0,VK
+,ABHISHEK M S,5,Privacy preserving federated learning,,,,,0,VK
 
 Group 8
-,NIYALURAHMAN K K,47,,,,,,0,Kiran V K
-,HARIKRISHNAN A,32,,,,,,0,Kiran V K
-,AMEYA SHYJU M,67,,,,,,0,Kiran V K
-,SASANK M,55,,,,,,0,Kiran V K
+,NIYALURAHMAN K K,47,NFT Licensing for AI/ML Models: Ownership and Monetization on the Blockchain,,,,,0,Kiran V K
+,HARIKRISHNAN A,32,Proof-of-Training: Ensuring AI Model Authenticity in Decentralized Marketplaces,,,,,0,Kiran V K
+,AMEYA SHYJU M,67,Blockchain & Trust Mechanisms for AI Marketplaces,,,,,0,Kiran V K
+,SASANK M,55,IPFS + Blockchain: Off-Chain Storage and On-Chain Proofs for AI Models,,,,,0,Kiran V K
 
 Group 9
-,ALEENA JOSEPH,12,,,,,,0,SKS
-,AKSHARA MOHANAN,11,,,,,,0,SKS
-,NAYANJITH,44,,,,,,0,SKS
-,SNEHA D,72,,,,,,0,SKS
+,ALEENA JOSEPH,12,A Multi-Layered Architectural Framework for the Internet of Robotic Things,,,,,0,SKS
+,AKSHARA MOHANAN,11,Ethical and Privacy Challenges in Robotic Systems,,,,,0,SKS
+,NAYANJITH,44,Speech Emotion Recognition for Smart Companion Robots,,,,,0,SKS
+,SNEHA D,72,Figure 2.0: The Future of Human-Robot Interaction,,,,,0,SKS
 
 Notes:
 1. Organization (10): Slide format logical sequence references figures/tables properly numbered

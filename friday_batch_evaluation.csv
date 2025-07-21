@@ -1,61 +1,61 @@
 Project Group,Student Name,Roll No,Presentation Title,Organization (10),Clarity & Communication (10),Q&A (10),Overall Participation (10),Total (40),Guide Name
 
 Group 10
-,ANOOP P,19,,,,,,0,Usha K
-,ARJUN SAJITH,20,,,,,,0,Usha K
+,ANOOP P,19,Security Challenges of LLMs,,,,,0,Usha K
+,ARJUN SAJITH,20,A Review on Large Language Models: Architectures, Applications, Taxonomies, Open Issues and Challenges,,,,,0,Usha K
 ,FATHIMA LANA EK,30,,,,,,0,Usha K
-,ARUN PRAKASH K,21,,,,,,0,Usha K
+,ARUN PRAKASH K,21,Agentic AI: Technologies,  Applications,and Societal Implications,,,,,0,Usha K
 
 Group 11
-,KEERTHANA S,36,,,,,,0,RKM
-,SWARNA N T,58,,,,,,0,RKM
-,NOEL TOM SANTHOSH,48,,,,,,0,RKM
-,NIVEDITHA ANITH,46,,,,,,0,RKM
+,KEERTHANA S,36,Machine Learning Approaches for Anomaly Detection in Cloud Environments,,,,,0,RKM
+,SWARNA N T,58,Cloud Infrastructure and IaC: Concepts, Challenges, and Real-World Implications,,,,,0,RKM
+,NOEL TOM SANTHOSH,48,Integrating Security Early: Infrastructure as Code Scanning in DevOps,,,,,0,RKM
+,NIVEDITHA ANITH,46,LLM-Powered Agentic Workflows for Vulnerability Remediation in Cloud Infrastructure,,,,,0,RKM
 
 Group 12
-,KANISHKA C,35,,,,,,0,Dr Balagopal N
-,AMEESHA T,14,,,,,,0,Dr Balagopal N
-,VEDASREE M,63,,,,,,0,Dr Balagopal N
-,MUNAWIR MUHAMMED P,40,,,,,,0,Dr Balagopal N
+,KANISHKA C,35,Anomaly Detection in Authentication Logs for Insider Threat Prevention,,,,,0,Dr Balagopal N
+,AMEESHA T,14,Reducing false positive in insider threat detection,,,,,0,Dr Balagopal N
+,VEDASREE M,63,UEBA: A New Frontier in Insider Threat Detection,,,,,0,Dr Balagopal N
+,MUNAWIR MUHAMMED P,40,The Rise of Insider Attacks,,,,,0,Dr Balagopal N
 
 Group 13
-,RAJEEV R,70,,,,,,0,RS
-,VAISAKH V,71,,,,,,0,RS
-,PHOENIX LAL P T,69,,,,,,0,RS
+,RAJEEV R,70,DBSCAN vs K-Means : Crime Hotspot Detection,,,,,0,RS
+,VAISAKH V,71,Al-Driven Crime Severity Classification(Random Forest, XGBoost),,,,,0,RS
+,PHOENIX LAL P T,69,Web Scraping in Law Enforcement:Data-Driven Crime Surveillance,,,,,0,RS
 
 Group 14
-,ABHIJITH P P,1,,,,,,0,SHS
-,ABHISHEK ARUNKUMAR,4,,,,,,0,SHS
-,ANJALI V M,16,,,,,,0,SHS
-,RIYAS P K,52,,,,,,0,SHS
+,ABHIJITH P P,1,Privacy-preserving LLM-based chatbots,,,,,0,SHS
+,ABHISHEK ARUNKUMAR,4,Explainable and verifiable automation for detecting hallucinations in LLM responses,,,,,0,SHS
+,ANJALI V M,16,Personalization in LLM,,,,,0,SHS
+,RIYAS P K,52,Co-designing conversational agents with older people,,,,,0,SHS
 
 Group 15
-,HARI KRISHNAN K S,33,,,,,,0,Kiran V K
-,NIDHA SHAMEER T S,45,,,,,,0,Kiran V K
-,NAVIYA P,43,,,,,,0,Kiran V K
-,SABARI R NADH,54,,,,,,0,Kiran V K
+,HARI KRISHNAN K S,33,Serverless Architectures for Long-Term Data Archiving,,,,,0,Kiran V K
+,NIDHA SHAMEER T S,45,Handwritten Text Recognition Using Machine Learning and Deep Learning,,,,,0,Kiran V K
+,NAVIYA P,43,Role of AI Agents in Long-Term Community Governance,,,,,0,Kiran V K
+,SABARI R NADH,54,Challenges of Preserving Community History with AI and the Cloud,,,,,0,Kiran V K
 
 Group 16
-,UNNIMAYA K,61,,,,,,0,G6
-,SAM JAMES,65,,,,,,0,G6
-,ABHINANDA M S,2,,,,,,0,G6
-,AMRUTHA SURESH,15,,,,,,0,G6
+,UNNIMAYA K,61,From Intrusion Detection to Threat Forecasting: The Role of Deep Learning,,,,,0,G6
+,SAM JAMES,65,The Future of Network Security: Dual-Layer Defense Systems,,,,,0,G6
+,ABHINANDA M S,2,DDoS Attacks: Detection vs. Prediction Using AI Models,,,,,0,G6
+,AMRUTHA P,73,LSTM for Time-Based Threat Prediction in Network Traffic,,,,,0,G6
 
 Group 17
-,MEGHA P H,68,,,,,,0,G7
-,C B NANDHANA,27,,,,,,0,G7
-,NANDHANA C S,73,,,,,,0,G7
+,MEGHA P H,68,Attention-Based Deep Learning for Speech Recognition: A BiLSTM Approach,,,,,0,G7
+,C B NANDHANA,27,Spectral and Predictive Feature Techniques in Voice Signal Processing,,,,,0,G7
+,NANDHANA C S,73,End-to-End CNN-Based Speech Analysis for Age and Gender Classification,,,,,0,G7
 
 Group 18
-,BHAVYA R,25,,,,,,0,Dr Syam Shankar
-,DILSHAD MOHAMMED,28,,,,,,0,Dr Syam Shankar
-,ADERSH A,8,,,,,,0,Dr Syam Shankar
-,ADEELA FARSHANA A,7,,,,,,0,Dr Syam Shankar
+,BHAVYA R,25,Secure routing in NoC,,,,,0,Dr Syam Shankar
+,DILSHAD MOHAMMED,28,Machine Learning Based Security in NoC,,,,,0,Dr Syam Shankar
+,ADERSH A,8,Energy efficiency in NoC,,,,,0,Dr Syam Shankar
+,ADEELA FARSHANA A,7,Security Threats in NoC,,,,,0,Dr Syam Shankar
 
 Group 19
-,ADVAY P KISHORE,10,,,,,,0,SKS
-,ANAND ALEX,13,,,,,,0,SKS
-,AMEENA JASMIN,60,,,,,,0,SKS
+,ADVAY P KISHORE,10,Robotics in Healthcare: Current Applications and Future Prospects,,,,,0,SKS
+,ANAND ALEX,13,Autonomous Navigation Systems for Medical Robots,,,,,0,SKS
+,AMEENA JASMIN,60,AI-Powered Medical Robotics: Enhancing Surgical Precision,,,,,0,SKS
 
 Notes:
 1. Organization (10): Slide format logical sequence references figures/tables properly numbered
