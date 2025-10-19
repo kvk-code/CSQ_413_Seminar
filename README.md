@@ -29,6 +29,17 @@ This repository contains all the necessary files and documentation for the CSQ41
    - Marking scheme for each component
    - Performance criteria descriptions
 
+4. `Report_Evaluation_Rubrics.md`
+   - Comprehensive report evaluation guidelines
+   - Detailed splitup of 20 marks for report evaluation
+   - Based on: Technical Content (8), Overall Quality (5), Templates (4), References (3)
+   - Performance levels and criteria for each component
+
+5. `Report_Evaluation_Quick_Reference.md`
+   - Quick reference guide for report evaluation
+   - Summary table and marking guidelines
+   - Evaluation checklist for students and evaluators
+
 ### Batch Information
 1. `Seminar_Batches.csv`
    - Complete list of all 19 teams
@@ -55,6 +66,11 @@ This repository contains all the necessary files and documentation for the CSQ41
    - Groups 10-19 (37 students)
    - Friday session evaluation sheet
    - Includes presentation title and marking columns
+
+3. `detailed_evaluation_sheet.csv`
+   - Complete evaluation template with detailed report breakdown
+   - Includes all components: Guide (20), Presentation (40), Report (20), Coordinator (20)
+   - Report section split into: Technical Content (8), Overall Quality (5), Templates (4), References (3)
 
 ## Batch Distribution
 
@@ -105,8 +121,12 @@ This repository contains all the necessary files and documentation for the CSQ41
    - Overall Participation (10)
 
 4. **Report** (20 marks)
-   - Technical Content
-   - Format & References
+   - **Technical Content (8 marks)**: Depth, accuracy, and relevance of technical information
+   - **Overall Quality (5 marks)**: Language, readability, and professional presentation
+   - **Templates Followed (4 marks)**: Adherence to format, structure, and organization
+   - **Adequacy of References (3 marks)**: Quality, recency, and proper citation of 2-3 papers
+
+   *See `Report_Evaluation_Rubrics.md` for detailed guidelines and `Report_Evaluation_Quick_Reference.md` for quick reference.*
 
 ## Important Dates
 - Seminar Start Date: 21/07/2025
