@@ -1,0 +1,58 @@
+Project Group,Student Name,Roll No,Presentation Title,Organization (10),Clarity & Communication (10),Q&A (10),Overall Participation (10),Total (40),Guide Name
+,,,,,,,,,
+Group 10,,,,,,,,,
+,ANOOP P,19,Security Challenges of LLMs,9,9,9,,0,Usha K
+,ARJUN SAJITH,20,"A Review on Large Language Models: Architectures, Applications, Taxonomies, Open Issues and Challenges",9,8,8,2,0,Usha K
+,FATHIMA LANA EK,30,Artificial intelligence for literature reviews: opportunities and challenges,8,7,6,3,0,Usha K
+,ARUN PRAKASH K,21,"Agentic AI: Technologies, Applications, and Societal Implications",8,9,7,3,0,Usha K
+,,,,,,,,,
+Group 11,,,,,,,,,
+,KEERTHANA S,36,Machine Learning Approaches for Anomaly Detection in Cloud Environments,7,8,8,4,0,RKM
+,SWARNA N T,58,"Cloud and Cloud misconfigurations: Concepts, Challenges, and Real-World Implications",8,7,8,1,0,RKM
+,NOEL TOM SANTHOSH,48,Integrating Security Early: Infrastructure as Code Scanning in DevOps,7,8,8,3,0,RKM
+,NIVEDITHA ANITH,46,LLM-Powered Agentic Workflows for Vulnerability Remediation in Cloud Infrastructure,7,7,7,7,0,RKM
+,,,,,,,,,
+Group 12,,,,,,,,,
+,KANISHKA C,35,Anomaly Detection in Authentication Logs for Insider Threat Prevention,9,8,8,2,0,Dr Balagopal N
+,AMEESHA T,14,Reducing false positive in insider threat detection,8,8,8,5,0,Dr Balagopal N
+,VEDASREE M,63,UEBA: A New Frontier in Insider Threat Detection,8,8,8,3,0,Dr Balagopal N
+,MUNAWIR MUHAMMED P,40,The Rise of Insider Attacks,8,6,7,3,0,Dr Balagopal N
+,,,,,,,,,
+Group 13,,,,,,,,,
+,RAJEEV R,70,DBSCAN vs K-Means: Crime Hotspot Detection,9,8,9,5,0,RS
+,VAISAKH V,61,"AI-Driven Crime Severity Classification (Random Forest, XGBoost)",8,9,9,3,0,RS
+,PHOENIX LAL P T,69,Web Scraping in Law Enforcement: Data-Driven Crime Surveillance,8,6,8,1,0,RS
+,,,,,,,,,
+Group 14,,,,,,,,,
+,ABHIJITH P P,1,Privacy-preserving LLM-based chatbots,8,8,8,2,0,SHS
+,ABHISHEK ARUNKUMAR,4,Explainable and verifiable automation for detecting hallucinations in LLM responses,9,8,9,3,0,SHS
+,ANJALI V M,16,Personalization in LLM,8,8,8,2,0,SHS
+,RIYAS P K,52,Co-designing conversational agents with older people,7,7,7,2,0,SHS
+,,,,,,,,,
+Group 15,,,,,,,,,
+,HARI KRISHNAN K S,33,Serverless Architectures for Long-Term Data Archiving,8,8,8,2,,Kiran V K
+,NIDHA SHAMEER T S,45,Handwritten Text Recognition Using Machine Learning and Deep Learning,8,8,8,3,0,Kiran V K
+,NAVIYA P,43,Role of AI Agents in Long-Term Community Governance,7,8,8,1,0,Kiran V K
+,SABARI R NADH,54,Challenges of Preserving Community History with AI and the Cloud,7,7,8,6,0,Kiran V K
+,,,,,,,,,
+Group 16,,,,,,,,,
+,UNNIMAYA K,60,From Intrusion Detection to Threat Forecasting: The Role of Deep Learning,8,8,8,3,0,G6
+,SAM JAMES,71,The Future of Network Security: Dual-Layer Defense Systems,8,7,8,5,0,G6
+,ABHINANDA M S,2,DDoS Attacks: Detection vs. Prediction Using AI Models,8,8,8,4,0,G6
+,AMRUTHA P,73,LSTM for Time-Based Threat Prediction in Network Traffic,,,,,0,G6
+,,,,,,,,,
+Group 17,,,,,,,,,
+,MEGHA P H,65,Attention-Based Deep Learning for Speech Recognition: A BiLSTM Approach,9,8,7,2,0,G7
+,C B NANDHANA,27,Spectral and Predictive Feature Techniques in Voice Signal Processing,8,8,8,1,3,G7
+,NANDHANA C S,68,End-to-End CNN-Based Speech Analysis for Age and Gender Classification,8,8,8,5,0,G7
+,,,,,,,,,
+Group 18,,,,,,,,,
+,BHAVYA R,25,Secure routing in NoC,8,9,8,3,0,Dr Syam Shankar
+,DILSHAD MOHAMMED,28,Machine Learning Based Security in NoC,8,7,9,1,0,Dr Syam Shankar
+,ADERSH A,8,Energy efficiency in NoC,7,7,8,1,0,Dr Syam Shankar
+,ADEELA FARSHANA A,7,Security Threats in NoC,7,7,8,1,0,Dr Syam Shankar
+,,,,,,,,,
+Group 19,,,,,,,,,
+,ADVAY P KISHORE,10,Reinforcement Learning for Cyber Deception and Honeypots,8,8,8,3,0,SKS
+,ANAND ALEX,15,Rise of Large Language Models(LLMs) in Cybersecurity,8,8,8,3,0,SKS
+,AMEENA JASMIN,13,Types of Honeypots: Advantages and Disadvantages,8,7,8,4,0,SKS
