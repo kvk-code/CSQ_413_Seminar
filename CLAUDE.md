@@ -19,6 +19,9 @@ This repository manages the CSQ413 Seminar course for final year Computer Scienc
 3. `monday_batch_evaluation.csv` / `friday_batch_evaluation.csv` - Session-specific evaluation sheets
 4. `complete_evaluation_sheet.csv` - Combined evaluation sheet for all groups
 5. `class_roll_list.csv` - Complete student roster
+6. `CSQ413_S7CSE_Seminar_Report_Hardcopy_Status_*.csv` - Tracks hardcopy report submission status (Copy 1, Copy 2, Guide signature, In-Charge signature)
+7. `Pending_Submissions_Status_*.csv` - Extracted list of pending students with incomplete hardcopy submission procedures and detailed remarks
+8. `Pending_Submissions_Summary_*.txt` - Human-readable summary report of pending submissions with guide-wise breakdown for follow-up coordination
 
 ### Data Flow
 - Student titles from response sheet populate evaluation sheets
