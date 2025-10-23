@@ -2,60 +2,60 @@ Project Group,Student Name,Roll No,Presentation Title,Organization (10),Clarity 
 
 Group 10
 ,ANOOP P,19,Security Challenges of LLMs,,,,,0,Usha K
-,ARJUN SAJITH,20,"A Review on Large Language Models: Architectures, Applications, Taxonomies, Open Issues and Challenges",,,,,0,Usha K
-,FATHIMA LANA EK,30,"Artificial intelligence for literature reviews: opportunities and challenges",,,,,0,Usha K
+,ARJUN SAJITH,20,"A Rise of  Large Language Models: Architectures, Applications and future directions",,,,,0,Usha K
+,FATHIMA LANA EK,30,Evaluating LLMs and their role in AI powered literature review,,,,,0,Usha K
 ,ARUN PRAKASH K,21,"Agentic AI: Technologies, Applications, and Societal Implications",,,,,0,Usha K
 
 Group 11
-,KEERTHANA S,36,Machine Learning Approaches for Anomaly Detection in Cloud Environments,,,,,0,RKM
-,SWARNA N T,58,"Cloud Infrastructure and IaC: Concepts, Challenges, and Real-World Implications",,,,,0,RKM
-,NOEL TOM SANTHOSH,48,Integrating Security Early: Infrastructure as Code Scanning in DevOps,,,,,0,RKM
-,NIVEDITHA ANITH,46,LLM-Powered Agentic Workflows for Vulnerability Remediation in Cloud Infrastructure,,,,,0,RKM
+,KEERTHANA S,36,Machine Learning Approaches for Anomaly Detection in Cloud Environments,,,,,0,Radhika K Manjusha
+,SWARNA N T,58,Cloud and Cloud misconfigurations,,,,,0,Radhika K Manjusha
+,NOEL TOM SANTHOSH,48,Integrating IaC Scanning into DevOps Pipelines,,,,,0,Radhika K Manjusha
+,NIVEDITHA ANITH,46,LLM-Powered Agentic Workflow for Vulnerability Remediation in Cloud Infrastructure,,,,,0,Radhika K Manjusha
 
 Group 12
-,KANISHKA C,35,Anomaly Detection in Authentication Logs for Insider Threat Prevention,,,,,0,Dr Balagopal N
+,KANISHKA C,35,Anomaly Detection in Authentication Logs for Insider Threat Detection,,,,,0,Dr Balagopal N
 ,AMEESHA T,14,Reducing false positive in insider threat detection,,,,,0,Dr Balagopal N
 ,VEDASREE M,63,UEBA: A New Frontier in Insider Threat Detection,,,,,0,Dr Balagopal N
-,MUNAWIR MUHAMMED P,40,The Rise of Insider Attacks,,,,,0,Dr Balagopal N
+,MUNAWIR MUHAMMED P,40, Rise of Insider Attacks,,,,,0,Dr Balagopal N
 
 Group 13
-,RAJEEV R,70,"DBSCAN vs K-Means: Crime Hotspot Detection",,,,,0,RS
-,VAISAKH V,71,"AI-Driven Crime Severity Classification (Random Forest, XGBoost)",,,,,0,RS
-,PHOENIX LAL P T,69,"Web Scraping in Law Enforcement: Data-Driven Crime Surveillance",,,,,0,RS
+,RAJEEV R,70,"DBSCAN vs K-Means: Crime Hotspot Detection",,,,,0,Reshma Sudhakaran
+,VAISAKH V,71,"Al-Driven Crime Severity Classification(using Random Forest, & XGBoost)",,,,,0,Reshma Sudhakaran
+,PHOENIX LAL P T,69,Web Scraping in Law Enforcement:Data-Driven Crime Surveillance,,,,,0,Reshma Sudhakaran
 
 Group 14
-,ABHIJITH P P,1,Privacy-preserving LLM-based chatbots,,,,,0,SHS
-,ABHISHEK ARUNKUMAR,4,Explainable and verifiable automation for detecting hallucinations in LLM responses,,,,,0,SHS
-,ANJALI V M,16,Personalization in LLM,,,,,0,SHS
-,RIYAS P K,52,Co-designing conversational agents with older people,,,,,0,SHS
+,ABHIJITH P P,1,Privacy-preserving LLM-based chatbots,,,,,0,SHILPA S
+,ABHISHEK ARUNKUMAR,4,Explainable and verifiable automation for detecting hallucinations in LLM responses,,,,,0,SHILPA S
+,ANJALI V M,16,"WHEN LLM MEETS PERSONALIZATION: CHALLENGES AND PERSPECTIVES",,,,,0,SHILPA S
+,RIYAS P K,52,Co-designing conversational agents with older people,,,,,0,SHILPA S
 
 Group 15
 ,HARI KRISHNAN K S,33,Serverless Architectures for Long-Term Data Archiving,,,,,0,Kiran V K
-,NIDHA SHAMEER T S,45,Handwritten Text Recognition Using Machine Learning and Deep Learning,,,,,0,Kiran V K
+,NIDHA SHAMEER T S,45,HANDWRITING RECOGNITION,,,,,0,Kiran V K
 ,NAVIYA P,43,Role of AI Agents in Long-Term Community Governance,,,,,0,Kiran V K
 ,SABARI R NADH,54,Challenges of Preserving Community History with AI and the Cloud,,,,,0,Kiran V K
 
 Group 16
-,UNNIMAYA K,61,From Intrusion Detection to Threat Forecasting: The Role of Deep Learning,,,,,0,G6
-,SAM JAMES,65,The Future of Network Security: Dual-Layer Defense Systems,,,,,0,G6
-,ABHINANDA M S,2,DDoS Attacks: Detection vs. Prediction Using AI Models,,,,,0,G6
-,AMRUTHA P,73,LSTM for Time-Based Threat Prediction in Network Traffic,,,,,0,G6
+,UNNIMAYA K,61,From Intrusion Detection to Threat Forecasting:  Role of Deep Learning,,,,,0,Vishnu Shankar V
+,SAM JAMES,65,The Future of Network Security: Dual-Layer Defense Systems,,,,,0,Vishnu Shankar V
+,ABHINANDA M S,2,DDoS Attack: Detection vs. Prediction Using AI,,,,,0,Vishnu Shankar V
+,AMRUTHA P,73,LSTM for Time-Based Threat Prediction in Network Traffic,,,,,0,Vishnu Shankar V
 
 Group 17
-,MEGHA P H,68,Attention-Based Deep Learning for Speech Recognition: A BiLSTM Approach,,,,,0,G7
-,C B NANDHANA,27,Spectral and Predictive Feature Techniques in Voice Signal Processing,,,,,0,G7
-,NANDHANA C S,73,End-to-End CNN-Based Speech Analysis for Age and Gender Classification,,,,,0,G7
+,MEGHA P H,68,Attention-Based Deep Learning for Speech Recognition: A BiLSTM Approach,,,,,0,Sreekutty S
+,C B NANDHANA,27,Spectral and Predictive Feature Techniques in Voice Signal Processing,,,,,0,Sreekutty S
+,NANDHANA C S,73,"EEP CNN FOR VOICE-BASED AGE  & GENDER DETECTION",,,,,0,Sreekutty S
 
 Group 18
 ,BHAVYA R,25,Secure routing in NoC,,,,,0,Dr Syam Shankar
 ,DILSHAD MOHAMMED,28,Machine Learning Based Security in NoC,,,,,0,Dr Syam Shankar
-,ADERSH A,8,Energy efficiency in NoC,,,,,0,Dr Syam Shankar
-,ADEELA FARSHANA A,7,Security Threats in NoC,,,,,0,Dr Syam Shankar
+,ADERSH A,8,Efficiency of NoC,,,,,0,Dr Syam Shankar
+,ADEELA FARSHANA A,7,Security Threat in NoC,,,,,0,Dr Syam Shankar
 
 Group 19
-,ADVAY P KISHORE,10,Robotics in Healthcare: Current Applications and Future Prospects,,,,,0,SKS
-,ANAND ALEX,13,Autonomous Navigation Systems for Medical Robots,,,,,0,SKS
-,AMEENA JASMIN,60,AI-Powered Medical Robotics: Enhancing Surgical Precision,,,,,0,SKS
+,ADVAY P KISHORE,10,Reinforcement Learning for Cyber Deception and Honeypots,,,,,0,Sankar K V
+,ANAND ALEX,13,Rise of Large Language Models(LLMs) in Cybersecurity,,,,,0,Sankar K V
+,AMEENA JASMIN,60,Types of Honeypots: Advantages and Disadvantages,,,,,0,Sankar K V
 
 Notes:
 1. Organization (10): Slide format logical sequence references figures/tables properly numbered

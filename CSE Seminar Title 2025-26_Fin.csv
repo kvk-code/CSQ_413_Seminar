@@ -1,0 +1,84 @@
+Team Name ,University Reg No.,Roll No,Member Order,Topic,Phone Number,Email id,Dates
+Group 1,NSS22CS018,18,Anjithkrishnan K,OSINT & Social Engineering: Human Element of Cybersecurity,8157860753,anjithkrishan2004@gmail.com,21-Jul
+,NSS22CS061,57,S Thejaswini,Harnessing LLMs for Intelligent Phishing Detection: Moving Beyond Classical ML and DL,9995099827,sthejaswini056@gmail.com,21-Jul
+,NSS22CS055,51,Riya S,Benchmarking the Base: Evaluating Large Language Models for Phishing Detection Without Fine Tuning,8129668495,riyas14102003@gmail.com,21-Jul
+,NSS22CS030,29,Diya K Sajith,Red Teaming with LLMs: Stress Testing AI Defenses Against Sophisticated Phishing Attacks,9656408477,diyaksajith@gmail.com,29-Sep
+Group 2,NSS22CS068,64,Vishnu M,"Digital Transformation in Healthcare:  Challenges, Solutions, and Security  
+",9633213564,vishnuharisree10@gmail.com,4-Aug
+,NSS22CS006 ,6,Abhishek S,SECURING HEALTHCARE DATA WITH HYPERLEDGER FABRIC,8714473170,sabhishek1729@gmail.com,4-Aug
+,NSS22CS063,59,Theertha santhosh,Cryptographic Mechanisms for Secure Health Record Verification in Blockchain-Based Systems,7025419603,theerthasanthosh103@gmail.com,4-Aug
+,NSS22CS041,39,Mohammed Shifan C P,PATIENT DATA PROTECTION IN THE DIGITAL  AGE: SAFEGUARDING ELECTRONIC HEALTH  RECORDS (EHRS)  ,9037587334,mohammedshifancp@gmail.com,4-Aug
+Group 3,NSS22CS052,49,Rameesa KT,A Secure Third-Party Auditing Scheme  Based on Blockchain Technology in Cloud  Storage,9188257583,rameesakt2003@gmail.com,4-Aug
+,NSS22CS038,37,Merin P R,Bloom Filters & eBF: Design and Security Applications,,9037574804,11-Aug
+,NSS22CS022,22,Arun V,BLOOM FILTER-BASED DATA INTEGRITY VERIFICATION ,7736500191,22b794@nssce.ac.in,11-Aug
+,NSS22CS003,3,Abhinand c,"Data Deduplication in A Blockchain-Enabled Big Data 
+Ecosystem: Secure and Efficient Cloud Storage",9562618599,22b162@nssce.ac.in,11-Aug
+Group 4,NSS22CS044,42,Namitha A Suresh,"AUTOHALLUSION: 
+Automating Hallucination Benchmark Generation
+",8075059943,22b012@nssce.ac.in,11-Aug
+,NSS22CS054,50,Rayhana S,Mitigating Hallucinations in Vision-Language Models: A Comparative Study of CLIP-Guided Decoding and Multi-Path Reasoning,9037279273,22b880@nssce.ac.in,8-Sep
+,NSS22CS066,62,Vaishnav Gopal,Mitigating Hallucinations in Large Vision-Language Models: A Comparative Analysis of Decoding Strategies ,8921725182,22b003@nssce.ac.in,8-Sep
+,NSS22CS060,56,Sreejith M Varma ,"Integrating Fine-Grained Preferences With Entity  Centric Methods To Combat LVLM Hallucinations  
+",8714820391,22b161@nssce.ac.in,11-Aug
+Group 5,NSS22CS035,34,John Varghese Benny ,Bayesian Networks for Intelligent Decision-Making in Uncertain Environments,8301094389,22b711@nssce.ac.in,8-Sep
+,NSS22CS024,24,Aswini K S,Multi-Modal Retrieval-Augmented Generation,9778123916,22b058@nssce.ac.in,8-Sep
+,NSS22CS026,26,Brighty Jobin,NLI : Teaching AI to Reason About Language,9072105725,22b533@nssce.ac.in,8-Sep
+,NSS22CS032,31,Gayathri Ashok,Combining Ontologies and LLMs for Safer and Explainable AI Systems,7012752991,22b541@nssce.ac.in,8-Sep
+Group 6,NSS22CS057,53,Rohan C Alben,Cross Modal Attention ,8078515367,22b866@nssce.ac.in,8-Sep
+,NSS22CS023,23,Ashish B,ALPHAFOLD: A DEEP LEARNING APPROACH TO PROTEIN STRUCTURE PREDICTION,7907131679,ashish.b2005@gmail.com,15-Sep
+,PKD22CS056,66,Shamil A,GRAPH ATTENTION MULTI-LAYER PERCEPTRON (GAMLP),8086698160,22b926@nssce.ac.in,15-Sep
+,NSS22CS043,41,Namita B,EXPLAINABLE AI USING CAPTUM: Improving Interpretability in Deep Learning Models,8129599326,namitab1604@gmail.com,15-Sep
+Group 7,NSS22CS039,38,Mihikka S,BLOCKCHAIN BASED APPROACH ON FEDERATED LEARNING,9446562122,mihikkas@gmail.com,15-Sep
+,NSS22CS017,17,Anjana S,Intrusion detection system in iot,8304085660,22b906@nssce.ac.in,15-Sep
+,NSS22CS009,9,Adhithyan Marikkal,Attacks on IoT devices,7902203708,22b813@nssce.ac.in,15-Sep
+,NSS22CS005,5,Abhishek M S,Privacy preserving using  federated learning,7902464924,,15-Sep
+Group 8,NSS22CS033,32,Harikrishnan A,Proof-of-Training: Ensuring AI Model Authenticity in Decentralized Marketplaces,8921349882,22b789@nssce.ac.in,22-Sep
+,NSS22CS049,47,Niyalurahman K K,NFT Licensing for AI/ML Models: Ownership and Monetization on the Blockchain,7736671729,22b670@nssce.ac.in,22-Sep
+,LNSS22CS069,67,Ameya Shyju M,Blockchain & Trust Mechanisms for AI Marketplaces,8714466542,23l078@nssce.ac.in,22-Sep
+,NSS22CS059 ,55,Sasank M,IPFS + Blockchain: Off-Chain Storage and On-Chain Proofs for AI Models,9446737300,22b867@nssce.ac.in,22-Sep
+"Group 9
+",NSS22CS012,12,Aleena Joseph,A Multi-Layered Architectural Framework for the Internet of Robotic Things,6282113858,22b630@nssce.ac.in,22-Sep
+,NSS22CS046,44,Nayanjith,Speech Emotion Recognition in Real Static and Dynamic Human-Robot  Interaction Scenarios,9497608255,22b455@nssce.ac.in,22-Sep
+,LNSS22CS074,72,Sneha D,Figure 2.0: The Future of Human-Robot Interaction,9061262336,23l067@nssce.ac.in,22-Sep
+,NSS22CS011,11,Akshara mohanan,Privacy and Ethical Challenges in Robotics,8921109858,22b521@nssce.ac.in,29-Sep
+Group 10,NSS22CS020,20,Arjun Sajith,"A Rise of  Large Language Models: Architectures, Applications and future directions",9074368564,22b158@nssce.ac.in,25-Jul
+,NSS22CS019,19,Anoop P,Security Challenges of LLMs,8590718893,22b206@nssce.ac.in,25-Jul
+,NSS22CS021,21,Arun Prakash k,"Agentic AI: Technologies,  Applications,and Societal Implications",8089732447,22b188@nssce.ac.in,25-Jul
+,NSS22CS031,30,Fathima Lana EK,Evaluating LLMs and their role in AI powered literature review,9207062453,22b832@nssce.ac.in,25-Jul
+"Group 11
+",NSS22CS062,58,Swarna N T,Cloud and Cloud misconfigurations,8301964648,22b798@nssce.ac.in,18-Aug
+,NSS22CS050,48,Noel Tom Santhosh,Integrating IaC Scanning into DevOps Pipelines,9645252368,22b180@nssce.ac.in,18-Aug
+,NSS22CS037,36,Keerthana S,Machine Learning Approaches for Anomaly Detection in Cloud Environments,9383461389,22b686@nssce.ac.in,18-Aug
+,NSS22CS048,46,Niveditha Anith,LLM-Powered Agentic Workflow for Vulnerability Remediation in Cloud Infrastructure,8304071650,22b005@nssce.ac.in,18-Aug
+Group 12,NSS22CS014,14,Ameesha T,Reducing false positive in insider threat detection,7012297426,22b163@nssce.ac.in,18-Aug
+,NSS22CS036,35,Kanishka C,Anomaly Detection in Authentication Logs for Insider Threat Detection,8891197455,22b781@nssce.ac.in,12-Sep
+,NSS22CS042,40,Munawir Muhammed P, Rise of Insider Attacks,7736028997,22b606@nssce.ac.in,18-Aug
+,NSS22CS067 ,63,Vedasree M,UEBA: A New Frontier in Insider Threat Detection,7012434704,22b465@nssce.ac.in ,18-Aug
+Group 13,LNSS22CS072,70,Rajeev R,DBSCAN vs K-Means : Crime Hotspot Detection,9685824483,23l012@nssce.ac.in,12-Sep
+,NSS22CS065,61,Vaisakh V,"Al-Driven Crime Severity Classification(using Random Forest, & XGBoost)",8921093009,22b159@nssce.ac.in,12-Sep
+,LNSS22CS071,69,pheonix Lal PT,Web Scraping in Law Enforcement:Data-Driven Crime Surveillance,8129712757,23l034@nssce.ac.in,12-Sep
+"Group 14
+",NSS22CS001,1,Abhijith P P,Privacy-preserving on LLM-based chatbots,6238049108,22b604@nssce.ac.in,12-Sep
+,NSS22CS004,4,Abhishek Arunkumar ,Explainable and verifiable automation for detecting hallucinations in LLM responses,9207027558,22b827@nssce.ac.in,29-Sep
+,NSS22CS016,16,Anjali V M,"WHEN LLM MEETS PERSONALIZATION: CHALLENGES AND PERSPECTIVES 
+",9895673122,22b599@nssce.ac.in,12-Sep
+,NSS22CS056,52,Riyas P K,Co-designing conversational agents with older people,9846272069,22b710@nssce.ac.in,12-Sep
+Group 15,NSS22CS058,54,Sabari R Nadh,Challenges of Preserving Community History with AI and the Cloud,7034795794,sabarirnadh@gmail.com,19-Sep
+,NSS22CS034,33,Hari Krishnan K S,Serverless Architectures for Long-Term Data Archiving,9496647037,22b491@nssce.ac.in,19-Sep
+,NSS22CS047 ,45,Nidha Shameer TS ,HANDWRITING RECOGNITION,8139855434,nidhu.shameer@gmail.com,19-Sep
+,NSS22CS045,43,Naviya p,Role of AI Agents in Long-Term Community Governance,7356473978,navyap3104@gmail.com,19-Sep
+Group 16,NSS22CS064,60,UNNIMAYA K,From Intrusion Detection to Threat Forecasting:  Role of Deep Learning,8547700569,22b501@nssce.ac.in,19-Sep
+,LNSS22CS073,71,SAM JAMES,The Future of Network Security: Dual-Layer Defense Systems,8943506355,23l042@nssce.ac.in,19-Sep
+,LNSS21CS065,73,AMRUTHA P,LSTM for Time-Based Threat Prediction in Network Traffic,9633550894,amruthapalakkal2001@gmail.com,19-Sep
+,NSS22CS002,2,ABHINANDA M S,DDoS Attack: Detection vs. Prediction Using AI ,7594839674,abhinandamadhurisathyan@gmail.com,26-Sep
+Group 17,NSS22CS027,27,C B Nandhana,Spectral and Predictive Feature Techniques in Voice Signal Processing,9567279563,nandhana2004babu@gmail.com,26-Sep
+,MAC22CS044,65,Megha P H,Attention-Based Deep Learning for Speech Recognition: A BiLSTM Approach,8714522881,22B923@nssce.ac.in,26-Sep
+,LNSS22CS070,68,Nandhana C S ,"EEP CNN FOR VOICE-BASED AGE  & GENDER DETECTION 
+",7736921714,23L025@nssce.ac.in,26-Sep
+Group 18,NSS22CS025,25,Bhavya R,Secure routing in Network-On-Chip,9544457824,22b762@nssce.ac.in ,26-Sep
+,NSS22CS007,7,Adeela Farshana,Security Threat in NoC,,,26-Sep
+,NSS22CS008,8,Adersh A,Efficiency of NoC,8590515603,22b151@nssce.ac.in,26-Sep
+,NSS22CS028,28,Dilshad Mohammed,Machine Learning Based Security in Network-On-Chip,8714381226,22b664@nssce.ac.in,29-Sep
+Group 19,NSS22CS013,13,Ameena Jasmin,Types of Honeypots: Advantages and Disadvantages,7907480756,22b797@nssce.ac.in,29-Sep
+,NSS22CS015,15,Anand Alex,Rise of Large Language Models(LLMs) in Cybersecurity,7994228850,22b544@nssce.ac.in,29-Sep
+,NSS22CS010,10,Advay P Kishore,Reinforcement Learning for Cyber Deception and Honeypots,8590415837,22b155@nssce.ac.in,29-Sep

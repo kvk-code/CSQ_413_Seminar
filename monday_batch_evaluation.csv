@@ -3,26 +3,26 @@ Project Group,Student Name,Roll No,Presentation Title,Organization (10),Clarity 
 Group 1
 ,S THEJASWINI,57,Harnessing LLMs for Intelligent Phishing Detection: Moving Beyond Classical ML and DL,,,,,0,Dr Maya Mohan
 ,RIYA S,51,Benchmarking the Base: Evaluating Large Language Models for Phishing Detection Without Fine Tuning,,,,,0,Dr Maya Mohan
-,ANJITHKRISHNAN K,18,OSINT & Social Engineering: The Human Element of Cybersecurity,,,,,0,Dr Maya Mohan
-,DIYA K SAJITH,29,,,,,,0,Dr Maya Mohan
+,ANJITHKRISHNAN K,18,OSINT & Social Engineering: Human Element of Cybersecurity,,,,,0,Dr Maya Mohan
+,DIYA K SAJITH,29,Red Teaming with LLMs: Stress Testing AI Defenses Against Sophisticated Phishing Attacks,,,,,0,Dr Maya Mohan
 
 Group 2
 ,VISHNU M,64,"Digital Transformation in Healthcare: Challenges, Solutions, and Security",,,,,0,Usha K
-,ABHISHEK S,6,Hyperledger Fabric,,,,,0,Usha K
+,ABHISHEK S,6,SECURING HEALTHCARE DATA WITH HYPERLEDGER FABRIC,,,,,0,Usha K
 ,THEERTHA SANTHOSH,59,Cryptographic Mechanism for Secure Health Record Verification in Blockchain-Based Systems,,,,,0,Usha K
-,MOHAMMED SHIFAN C P,39,EHR Security and the DPDP Act: A Global Standards-Based Approach,,,,,0,Usha K
+,MOHAMMED SHIFAN C P,39,PATIENT DATA PROTECTION IN THE DIGITAL  AGE: SAFEGUARDING ELECTRONIC HEALTH  RECORDS (EHRS),,,,,0,Usha K
 
 Group 3
-,MERIN P R,37,"Bloom Filters: Challenges and Solutions in Data Security",,,,,0,Dr Sindhu S
-,RAMEESA K T,49,Blockchain-Driven Secure Data Auditing for Cloud Storage Systems,,,,,0,Dr Sindhu S
-,ARUN V,22,Bloom Filter-Based Data Integrity Verification in Cloud Storage,,,,,0,Dr Sindhu S
-,ABHINAND C,3,"Security and privacy concerns in cloud-based scientific and business workflows",,,,,0,Dr Sindhu S
+,MERIN P R,37,"Bloom Filters & eBF: Design and Security Applications",,,,,0,Dr Sindhu S
+,RAMEESA K T,49,A Secure Third-Party Auditing Scheme  Based on Blockchain Technology in Cloud  Storage,,,,,0,Dr Sindhu S
+,ARUN V,22,BLOOM FILTER-BASED DATA INTEGRITY VERIFICATION,,,,,0,Dr Sindhu S
+,ABHINAND C,3,"Data Deduplication in A Blockchain-Enabled Big Data Ecosystem: Secure and Efficient Cloud Storage",,,,,0,Dr Sindhu S
 
 Group 4
-,SREEJITH M VARMA,56,,,,,,0,Dr Anuraj Mohan
-,RAYHANA S,50,,,,,,0,Dr Anuraj Mohan
-,VAISHNAV GOPAL,62,,,,,,0,Dr Anuraj Mohan
-,NAMITHA A SURESH,42,,,,,,0,Dr Anuraj Mohan
+,SREEJITH M VARMA,56,"Integrating Fine-Grained Preferences With Entity  Centric Methods To Combat LVLM Hallucinations",,,,,0,Dr Anuraj Mohan
+,RAYHANA S,50,"Mitigating Hallucinations in Vision-Language Models: A Comparative Study of CLIP-Guided Decoding and Multi-Path Reasoning",,,,,0,Dr Anuraj Mohan
+,VAISHNAV GOPAL,62,"Mitigating Hallucinations in Large Vision-Language Models: A Comparative Analysis of Decoding Strategies",,,,,0,Dr Anuraj Mohan
+,NAMITHA A SURESH,42,"AUTOHALLUSION: Automating Hallucination Benchmark Generation",,,,,0,Dr Anuraj Mohan
 
 Group 5
 ,JOHN VARGHESE BENNY,34,Bayesian Networks for Intelligent Decision-Making in Uncertain Environments,,,,,0,Dr Sruthi Manmadhan
@@ -31,16 +31,16 @@ Group 5
 ,GAYATHRI ASOK,31,Combining Ontologies and LLMs for Safer and Explainable AI Systems,,,,,0,Dr Sruthi Manmadhan
 
 Group 6
-,ASHISH B,23,AlphaFold,,,,,0,Dr Viji Rajendran
-,NAMITA B,41,Explaining model prediction with Captum in PyTorch,,,,,0,Dr Viji Rajendran
+,ASHISH B,23,ALPHAFOLD: A DEEP LEARNING APPROACH TO PROTEIN STRUCTURE PREDICTION,,,,,0,Dr Viji Rajendran
+,NAMITA B,41,EXPLAINABLE AI USING CAPTUM: Improving Interpretability in Deep Learning Models,,,,,0,Dr Viji Rajendran
 ,ROHAN C ALBEN,53,Cross Modal Attention,,,,,0,Dr Viji Rajendran
-,SHAMIL A,66,Multilayer Perceptron,,,,,0,Dr Viji Rajendran
+,SHAMIL A,66,GRAPH ATTENTION MULTI-LAYER PERCEPTRON (GAMLP),,,,,0,Dr Viji Rajendran
 
 Group 7
-,MIHIKKA S,38,"Blockchain based approaches on federated learning",,,,,0,VK
-,ANJANA S,17,"Intrusion detection system in IoT",,,,,0,VK
-,ADITHYAN MARIKKAL,9,Attacks on IoT,,,,,0,VK
-,ABHISHEK M S,5,Privacy preserving federated learning,,,,,0,VK
+,MIHIKKA S,38,BLOCKCHAIN BASED APPROACH ON FEDERATED LEARNING,,,,,0,Vijesh K
+,ANJANA S,17,Intrusion detection system in iot,,,,,0,Vijesh K
+,ADITHYAN MARIKKAL,9,Attacks on IoT devices,,,,,0,Vijesh K
+,ABHISHEK M S,5,Privacy preserving using  federated learning,,,,,0,Vijesh K
 
 Group 8
 ,NIYALURAHMAN K K,47,NFT Licensing for AI/ML Models: Ownership and Monetization on the Blockchain,,,,,0,Kiran V K
@@ -49,10 +49,10 @@ Group 8
 ,SASANK M,55,IPFS + Blockchain: Off-Chain Storage and On-Chain Proofs for AI Models,,,,,0,Kiran V K
 
 Group 9
-,ALEENA JOSEPH,12,A Multi-Layered Architectural Framework for the Internet of Robotic Things,,,,,0,SKS
-,AKSHARA MOHANAN,11,Ethical and Privacy Challenges in Robotic Systems,,,,,0,SKS
-,NAYANJITH,44,Speech Emotion Recognition for Smart Companion Robots,,,,,0,SKS
-,SNEHA D,72,Figure 2.0: The Future of Human-Robot Interaction,,,,,0,SKS
+,ALEENA JOSEPH,12,A Multi-Layered Architectural Framework for the Internet of Robotic Things,,,,,0,Sankar K V
+,AKSHARA MOHANAN,11,Privacy and Ethical Challenges in Robotics,,,,,0,Sankar K V
+,NAYANJITH,44,Speech Emotion Recognition in Real Static and Dynamic Human-Robot  Interaction Scenarios,,,,,0,Sankar K V
+,SNEHA D,72,Figure 2.0: The Future of Human-Robot Interaction,,,,,0,Sankar K V
 
 Notes:
 1. Organization (10): Slide format logical sequence references figures/tables properly numbered
