@@ -73,6 +73,40 @@ Since this is a Git repository, Claude Code should automatically commit and push
 3. **Presentation** (40 marks): Organization (10) + Clarity & Communication (10) + Q&A (10) + Overall Participation (10)
 4. **Report** (20 marks): Technical content, format, references
 
+## Data Transformation Operations
+
+### Participation-Based Scaling (October 24, 2025)
+**Objective**: Scale Friday batch Overall Participation marks while keeping Consolidated Total unchanged
+
+**Operation Performed**:
+1. **Source File**: `Evaluations/Boosted_Evaluations/Consolidated_Evaluation_Friday_Boosted.xlsx`
+2. **Scaling Target**: Column "Avg Overall Participation (10)" only
+3. **Method**: Linear scaling with minimum threshold
+   - Formula: `scaled = 4 + (original - min_val) * 6 / (max_val - min_val)`
+   - Original range: [1.00, 10.00]
+   - Scaled range: [4.00, 10.00]
+   - Blank entries: Assigned 4.00 (minimum)
+4. **Results**:
+   - 36/37 students received a boost (average +2.08 points)
+   - Only unchanged: Anoop P (already at maximum 10.00)
+   - Blank entry (Amrutha P): Assigned 4.00
+   - Consolidated Total (40): Completely unchanged (+0.00)
+5. **Output File**: `Consolidated_Evaluation_Friday_Scaled_Final.xlsx`
+6. **Impact**: 
+   - Mean participation increased from 3.77 to 5.80
+   - Total batch participation increased by +78.78 points
+   - Lowest performers received maximum boost (+3.00)
+   - Highest performers received no boost (already at max)
+   - All other columns remain identical to original
+
+**Key Constraint**: ONLY the "Avg Overall Participation (10)" column was modified. The "Consolidated Total (40)" and all other fields remained completely unchanged.
+
+**Files Generated**:
+- `analyze_scaling_effect.py` - Analysis script showing impact on all 37 students
+- `apply_scaling_final.py` - Implementation script with verification
+- `FINAL_SCALING_REPORT.txt` - Comprehensive before-after report
+- `Consolidated_Evaluation_Friday_Scaled_Final.xlsx` - Final output file with scaled participation marks
+
 ## Important Constraints
 - Minimum 50 marks required to pass
 - Students must refer to 2-3 research papers (post-2022, indexed journals/tier-1 conferences)
