@@ -1,0 +1,74 @@
+Roll No,Student Name,Presentation Title,Avg Organization (10),Avg Clarity & Communication (10),Avg Q&A (10),Avg Overall Participation (10),Consolidated Total (40)
+1,Abhijith P P,Privacy-preserving LLM-based chatbots,8.50,8.50,8.50,4.33,29.83
+2,Abhinanda M S,DDoS Attacks: Detection vs. Prediction Using AI Models,9.00,8.50,8.50,6.00,32.00
+3,Abhinand C,Security and privacy concerns in cloud-based scientific and business workflows,7.50,8.00,8.00,8.80,31.50
+4,Abhishek Arunkumar,Explainable and verifiable automation for detecting hallucinations in LLM responses,9.00,9.00,9.50,7.67,35.17
+5,Abhishek M S,Privacy preserving federated learning,8.00,7.00,7.00,5.20,24.00
+6,Abhishek S,SECURING HEALTHCARE DATA WITH HYPERLEDGER FABRIC,8.00,7.50,8.00,5.50,26.00
+7,Adeela Farshana A,Security Threats in NoC,8.00,8.00,8.50,4.00,28.50
+8,Adersh A,Energy efficiency in NoC,8.00,8.00,9.00,6.67,31.67
+9,Adithyan Marikkal,Attacks on IoT,8.00,8.00,7.00,5.20,25.00
+10,Advay P Kishore,Reinforcement Learning for Cyber Deception and Honeypots,9.00,9.00,9.00,7.67,34.67
+11,Akshara Mohanan,Ethical and Privacy Challenges in Robotic Systems,8.50,9.00,8.00,7.30,31.00
+12,Aleena Joseph,A Multi-Layered Architectural Framework for the Internet of Robotic Things,9.25,9.50,9.50,7.60,34.25
+13,Ameena Jasmin,Types of Honeypots: Advantages and Disadvantages,8.00,7.50,8.00,6.22,29.72
+14,Ameesha T,Reducing false positive in insider threat detection,8.00,8.00,8.00,5.67,29.67
+15,Anand Alex,Rise of Large Language Models(LLMs) in Cybersecurity,8.50,9.00,9.00,7.67,34.17
+16,Anjali V M,Personalization in LLM,8.50,8.50,8.50,4.67,30.17
+17,Anjana S,Intrusion detection system in iot,7.00,7.00,7.00,5.20,23.00
+18,Anjithkrishnan K,OSINT & Social Engineering: Human Element of Cybersecurity,8.50,8.00,7.00,7.00,28.50
+19,Anoop P,Security Challenges of LLMs,9.50,9.50,9.50,10.00,38.50
+20,Arjun Sajith,"A Review on Large Language Models: Architectures, Applications, Taxonomies, Open Issues and Challenges",9.50,9.00,9.00,7.33,34.83
+21,Arun Prakash K,"Agentic AI: Technologies, Applications, and Societal Implications",8.00,8.50,7.50,6.44,30.44
+22,Arun V,Bloom Filter-Based Data Integrity Verification in Cloud Storage,8.50,8.00,7.00,7.60,29.50
+23,Ashish B,AlphaFold,8.50,8.00,9.00,5.80,28.50
+24,Aswini K S,Multi-Modal Retrieval-Augmented Generation (RAG),8.00,7.00,7.50,5.20,24.50
+25,Bhavya R,Secure routing in NoC,9.00,9.50,9.00,4.67,32.17
+26,Brighty Jobin,Natural Language Inference: Teaching AI to Reason About Language,5.00,8.00,7.50,5.80,23.50
+27,C B Nandhana,Spectral and Predictive Feature Techniques in Voice Signal Processing,8.00,8.50,8.50,4.00,29.00
+28,Dilshad Mohammed,Machine Learning Based Security in NoC,9.00,8.50,9.50,7.00,34.00
+29,Diya K Sajith,Red Teaming with LLMs: Stress Testing AI Defenses Against Sophisticated Phishing Attacks,7.00,7.00,8.00,4.00,22.00
+30,Fathima Lana Ek,Artificial intelligence for literature reviews: opportunities and challenges,8.50,7.50,7.50,6.44,29.94
+31,Gayathri Asok,Combining Ontologies and LLMs for Safer and Explainable AI Systems,7.00,6.00,7.00,5.20,22.00
+32,Harikrishnan A,Proof-of-Training: Ensuring AI Model Authenticity in Decentralized Marketplaces,9.00,9.00,8.33,7.60,32.33
+33,Hari Krishnan K S,Serverless Architectures for Long-Term Data Archiving,8.50,8.00,8.00,4.67,29.17
+34,John Varghese Benny,Bayesian Networks for Intelligent Decision-Making in Uncertain Environments,8.00,9.00,8.00,7.00,30.00
+35,Kanishka C,Anomaly Detection in Authentication Logs for Insider Threat Prevention,9.00,8.00,8.50,4.67,30.17
+36,Keerthana S,Machine Learning Approaches for Anomaly Detection in Cloud Environments,8.50,8.50,9.00,6.44,32.44
+37,Merin P R,Bloom Filters and eBF: Design and Security Applications,9.50,9.00,9.00,10.00,37.50
+38,Mihikka S,Blockchain based approaches on federated learning,9.00,8.00,8.00,6.40,29.00
+39,Mohammed Shifan C P,PATIENT DATA PROTECTION IN THE DIGITAL  AGE: SAFEGUARDING ELECTRONIC HEALTH  RECORDS (EHRS),8.50,8.00,8.50,4.60,26.00
+40,Munawir Muhammed P,The Rise of Insider Attacks,8.50,6.50,8.00,5.00,28.00
+41,Namita B,Explaining model prediction with Captum in PyTorch,8.00,7.00,8.00,4.60,24.00
+42,Namitha A Suresh,AUTOHALLUSION: Automating Hallucination Benchmark Generation,8.00,8.00,6.67,7.00,27.67
+43,Naviya P,Role of AI Agents in Long-Term Community Governance,7.50,8.50,8.00,4.00,28.00
+44,Nayanjith,Speech Emotion Recognition for Smart Companion Robots,9.00,8.50,8.00,7.60,31.50
+45,Nidha Shameer T S,Handwritten Text Recognition Using Machine Learning and Deep Learning,8.50,8.50,8.00,5.00,30.00
+46,Niveditha Anith,LLM-Powered Agentic Workflows for Vulnerability Remediation in Cloud Infrastructure,8.00,8.00,8.00,8.22,32.22
+47,Niyalurahman K K,NFT Licensing for AI/ML Models: Ownership and Monetization on the Blockchain,9.50,9.00,8.33,8.20,33.83
+48,Noel Tom Santhosh,Integrating Security Early: Infrastructure as Code Scanning in DevOps,8.00,8.50,9.00,7.00,32.50
+49,Rameesa K T,Blockchain-Driven Secure Data Auditing for Cloud Storage Systems,8.00,8.00,8.00,5.20,26.00
+50,Rayhana S,Mitigating Hallucinations in Vision-Language Models: A Comparative Study of CLIP-Guided Decoding and Multi-Path Reasoning,9.00,10.00,10.00,4.60,30.00
+51,Riya S,Benchmarking the Base: Evaluating Large Language Models for Phishing Detection Without Fine Tuning,8.00,8.00,7.83,7.15,29.08
+52,Riyas P K,Co-designing conversational agents with older people,7.50,7.50,8.00,4.33,27.33
+53,Rohan C Alben,Cross Modal Attention,8.00,8.00,8.00,4.60,25.00
+54,Sabari R Nadh,Challenges of Preserving Community History with AI and the Cloud,7.50,8.00,8.00,5.67,29.17
+55,Sasank M,IPFS + Blockchain: Off-Chain Storage and On-Chain Proofs for AI Models,7.50,8.00,8.00,7.00,28.50
+56,Sreejith M Varma,Integrating Fine-Grained Preferences With Entity Centric Methods To Combat LVLM Hallucinations,7.50,8.50,10.00,7.30,31.50
+57,S Thejaswini,Harnessing LLMs for Intelligent Phishing Detection: Moving Beyond Classical ML and DL,9.25,9.25,8.17,7.90,33.17
+58,Swarna N T,"Cloud and Cloud misconfigurations: Concepts, Challenges, and Real-World Implications",9.00,8.50,8.50,6.67,32.67
+59,Theertha Santhosh,Cryptographic Mechanism for Secure Health Record Verification in Blockchain-Based Systems,9.00,8.00,7.50,4.90,26.00
+60,Unnimaya K,From Intrusion Detection to Threat Forecasting: The Role of Deep Learning,8.50,8.50,8.50,5.00,30.50
+61,Vaisakh V,"AI-Driven Crime Severity Classification (Random Forest, XGBoost)",8.50,9.50,9.00,4.67,31.67
+62,Vaishnav Gopal,Mitigating Hallucinations in Large Vision-Language Models: A Comparative Analysis of Decoding Strategies,8.00,9.00,10.00,4.00,27.00
+63,Vedasree M,UEBA: A New Frontier in Insider Threat Detection,8.00,8.00,8.00,4.67,28.67
+64,Vishnu M,"Digital Transformation in Healthcare: Challenges, Solutions, and Security",9.50,9.00,8.50,5.20,29.00
+65,Megha P H,Attention-Based Deep Learning for Speech Recognition: A BiLSTM Approach,9.00,8.00,7.00,4.67,28.67
+66,Shamil A,Multilayer Perceptron,7.00,7.00,7.50,4.00,21.50
+67,Ameya Shyju M,Blockchain & Trust Mechanisms for AI Marketplaces,8.50,8.00,8.00,7.30,30.00
+68,Nandhana C S,End-to-End CNN-Based Speech Analysis for Age and Gender Classification,9.00,9.00,9.00,5.67,32.67
+69,Phoenix Lal P T,Web Scraping in Law Enforcement: Data-Driven Crime Surveillance,8.00,7.00,8.50,4.00,27.50
+70,Rajeev R,DBSCAN vs K-Means: Crime Hotspot Detection,9.00,9.00,9.50,8.33,35.83
+71,Sam James,The Future of Network Security: Dual-Layer Defense Systems,8.50,8.00,8.50,5.33,30.33
+72,Sneha D,Figure 2.0: The Future of Human-Robot Interaction,8.50,8.00,9.00,7.60,31.50
+73,Amrutha P,LSTM for Time-Based Threat Prediction in Network Traffic,6.00,7.00,6.00,4.00,23.00
