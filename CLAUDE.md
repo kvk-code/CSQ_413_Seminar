@@ -107,6 +107,62 @@ Since this is a Git repository, Claude Code should automatically commit and push
 - `FINAL_SCALING_REPORT.txt` - Comprehensive before-after report
 - `Consolidated_Evaluation_Friday_Scaled_Final.xlsx` - Final output file with scaled participation marks
 
+### Final Consolidated Marks Distribution (November 13, 2025)
+**Objective**: Create a comprehensive single CSV file combining all 4 evaluation components with clear component-wise breakdown
+
+**File Location**: `Evaluations/For_Display/FINAL_CONSOLIDATED_MARKS.csv`
+
+**Column Structure (20 columns)** - Each total column shows its formula using short forms:
+
+1. **Roll No** - Student roll number
+2. **Student Name** - Full student name
+3. **Background Knowledge - BK (10)** - Guide component (part 1)
+4. **Topic Relevance - TR (10)** - Guide component (part 2)
+5. **Guide Total (20) = BK + TR** - Sum of background knowledge and topic relevance
+6. **Seminar Diary - SD (10)** - Coordinator component (part 1)
+7. **Attendance - Att (10)** - Coordinator component (part 2) - **BLANK (data not available)**
+8. **Coordinator Total (20) = SD + Att** - Seminar diary marks only (attendance component blank)
+9. **Organization - Org (10)** - Presentation component (part 1)
+10. **Clarity & Communication - C&C (10)** - Presentation component (part 2)
+11. **Q&A (10)** - Presentation component (part 3)
+12. **Overall Participation - OP (10)** - Presentation component (part 4)
+13. **Presentation Total (40) = Org + C&C + Q&A + OP** - Sum of all presentation components
+14. **Technical Content - TC (8)** - Report component (part 1)
+15. **Overall Quality - OQ (5)** - Report component (part 2)
+16. **Templates Followed - TF (4)** - Report component (part 3)
+17. **Adequacy of References - AR (3)** - Report component (part 4)
+18. **Report Total (20) = TC + OQ + TF + AR** - Sum of all report components
+19. **GRAND TOTAL (100) = Guide(20) + Coordinator(20) + Presentation(40) + Report(20)** - Final total with decimal precision
+20. **GRAND TOTAL Rounded Up (100)** - Ceiling function applied (rounds up only if fractional part exists)
+
+**Rounding Logic (Column 20)**:
+- Uses ceiling function: rounds UP to next higher integer only when fractional part exists
+- Example: 78.83 → 79, 81.0 → 81, 88.5 → 89, 79.0 → 79
+- Integers remain unchanged; decimals round up
+
+**Data Composition**:
+- All 73 students included (36 Monday batch + 37 Friday batch)
+- Source data pulled from 4 separate For_Display files:
+  - Guide marks from: `CSQ413_S7CSE_Seminar_Guide_Marks - Guide_Marks.csv`
+  - Coordinator marks from: `CSQ413_S7CSE_Seminar_Coordinator_Marks - Seminar_Diary.csv`
+  - Report marks from: `CSQ413_S7CSE_Seminar_Report_Marks_Consolidated - Seminar Report.csv`
+  - Presentation marks from: `Combined_Consolidated_Evaluation.csv`
+
+**Score Statistics**:
+- Mean Total: 78.76/100
+- Min Total: 68.0, Max Total: 88.5
+- After rounding: Min 68, Max 89
+
+**Key Features**:
+- Crystal clear component hierarchy showing what composes each total
+- Short forms (BK, TR, SD, Att, Org, C&C, OP, TC, OQ, TF, AR) used consistently
+- Formulas displayed in column headers for transparency
+- Attendance column visibly blank, indicating data not available
+- Each component total immediately follows its sub-components
+- Unambiguous structure for mark verification and display to students
+
+**Generation Script**: `create_consolidated_marks_final.py`
+
 ## Important Constraints
 - Minimum 50 marks required to pass
 - Students must refer to 2-3 research papers (post-2022, indexed journals/tier-1 conferences)
