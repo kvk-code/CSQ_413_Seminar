@@ -73,6 +73,24 @@ Since this is a Git repository, Claude Code should automatically commit and push
 3. **Presentation** (40 marks): Organization (10) + Clarity & Communication (10) + Q&A (10) + Overall Participation (10)
 4. **Report** (20 marks): Technical content, format, references
 
+## Course Outcomes (COs)
+
+The CSQ413 Seminar course has 5 course outcomes that students must achieve:
+
+| CO | Outcome | Bloom's Level |
+|----|---------|---------------|
+| **CO1** | Identify promising new directions of various cutting-edge technologies | Understanding (U) |
+| **CO2** | Read and comprehend research papers from the literature which is related to areas of interest | Applying (P) |
+| **CO3** | Effectively communicate by making an oral presentation before an evaluation committee | Applying (P) |
+| **CO4** | Demonstrate listening ability and respond constructively | Applying (P) |
+| **CO5** | Develop skills in preparing a well-organized report employing elements of technical writing and critical thinking | Applying (P) |
+
+**CO Mapping to Evaluations:**
+- CO1: Assessed via Guide's Topic Relevance (10 marks)
+- CO2: Assessed via Guide's Background Knowledge (10 marks)
+- CO3 & CO4: Assessed via Presentation components - Organization, Clarity, Q&A, Participation (40 marks)
+- CO5: Assessed via Report submission (20 marks)
+
 ## Data Transformation Operations
 
 ### Participation-Based Scaling (October 24, 2025)

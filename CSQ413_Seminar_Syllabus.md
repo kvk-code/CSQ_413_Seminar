@@ -75,16 +75,12 @@ Preamble: The course 'Seminar' is intended to enable a B.Tech graduate to read, 
 
 $>$ To do literature survey in a selected area ofstudy. $>$ To understand an academic document from the literate and to give a presentation about it. $>$ To prepare a technical report. Course Outcomes [COs] : After successful completion of the course, the students will be able to:
 
-|  CO1 | Identify academic documents from the literature which are related to her/his areas of
-interest (Cognitive knowledge level: Apply).  |
+|  CO1 | Identify promising new directions of various cutting-edge technologies (Bloom's Taxonomy Level: Understanding - U).  |
 | --- | --- |
-|  CO2 | Read and apprehend an academic document from the literature which is related to
-her/ his areas of interest (Cognitive knowledge level: Analyze).  |
-|  CO3 | Prepare a presentation about an academic document (Cognitive knowledge
-level: Create).  |
-|  CO4 | Give a presentation about an academic document (Cognitive knowledge level:
-Apply).  |
-|  CO5 | Prepare a technical report (Cognitive knowledge level: Create).  |
+|  CO2 | Read and comprehend research papers from the literature which is related to her/his areas of interest (Bloom's Taxonomy Level: Applying - P).  |
+|  CO3 | Effectively communicate by making an oral presentation before an evaluation committee (Bloom's Taxonomy Level: Applying - P).  |
+|  CO4 | Demonstrate listening ability and respond constructively (Bloom's Taxonomy Level: Applying - P).  |
+|  CO5 | Develop skills in preparing a well-organized report employing elements of technical writing and critical thinking (Bloom's Taxonomy Level: Applying - P).  |
 
 Mapping of course outcomes with program outcomes:
 
